@@ -50,6 +50,8 @@ This module involved creating professional online profiles and building a digita
 **Description:**
 This module focused on exploring digital platforms for learning and collaboration. Activities included participating in discussions, engaging with communities, and documenting learning outcomes.
 
+
+Digital Literacy Awareness Quiz form: https://forms.gle/ArUa2E3R4NCprCD88
 ---
 
 ## Module 4 — Professional Email & Etiquette
