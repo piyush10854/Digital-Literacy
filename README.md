@@ -5,7 +5,7 @@
 **Name:** Piyush Pandey
 **Branch:** B.Tech CSE (AI/ML)
 **Year:** 1st Year
-**Registration Number: 25BAI10854
+**Registration Number:** 25BAI10854
 
 ---
 
